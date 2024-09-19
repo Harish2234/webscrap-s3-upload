@@ -28,3 +28,4 @@ This project is a Python-based tool that automates the process of web scraping a
 1. Install the required dependencies using `pip`:
    ```bash
    pip install boto3 requests
+   python main.py
